@@ -1,1 +1,1 @@
-# detroit-crime-prediction-auto-arima
+# Detroit Crime Prediction with Auto ARIMA
