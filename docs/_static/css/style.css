@@ -1,0 +1,123 @@
+body {
+	background-color: #000000 !important;
+	color: white;
+}
+
+div {
+  background-color: #000000 !important;
+}
+
+pre {
+  background-color: #000000 !important;
+  color: white !important;
+}
+
+a {
+  background-color: #000000 !important;
+}
+
+p {
+  color: white !important;
+}
+
+
+
+tr {
+  color: white !important;
+  background-color: #000000 !important;
+}
+
+h1, h2, h3 {
+  color:#7CFC00 !important;
+  
+}
+
+button {
+  background: #000000 !important;
+  color: #7CFC00 !important;
+}
+
+nav {
+  color: white !important;
+}
+
+
+#thispagenav-should-be-blue
+
+div.tocsection {
+    background-color: #000000;
+	  margin:0;
+}
+
+#bd-toc-nav {
+	background-color: #000000;
+}
+
+div.sitenavigation{
+  background-colo:#000000
+  border-right-width: medium;
+}
+
+button.btn.btn-secondary.topbarbtn {
+	background-color: #000000;
+}
+
+body {
+	background-color: #000000 !important;
+	color: white;
+}
+
+blockquote #email {
+	font-family:monospace;
+}
+
+
+.float-right {
+	float:right;
+}
+
+p {
+  color: white;
+}
+
+a{
+  color: white;
+}
+
+li {
+  color: white !important;
+}
+
+
+bd-toc-item, active {
+  color: #7CFC00 !important;
+}
+
+.navbar-nav > .active > a { 
+    color: #7CFC00 !important; 
+}
+
+.headerlink {
+  color: #7CFC00 !important;
+}
+
+.tocsection > i,d {
+  color: #7CFC00 !important;
+}
+
+.nav-item > .active { 
+  color: #7CFC00 !important; 
+  border-color: #7CFC00 !important;
+}
+
+.nav-item > a { 
+  color: white !important; 
+}
+
+.nav-item > a:hover {
+  color: #7CFC00 !important;
+}
+
+.toc-entry > .active {
+  color: #7CFC00 !important;
+}
